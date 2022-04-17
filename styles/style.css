@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -13,8 +20,12 @@
   max-height: 756px;
   background-color: #F2F2F2;
   position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   overflow: hidden;
 }
 .logo{
@@ -77,8 +88,12 @@
 
 }
 .two-columns{
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: space-between;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   width: 80%;
   margin: 0 auto;
 }
@@ -133,17 +148,26 @@
 }
 .table{
   margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-line-pack: justify;
+      align-content: space-between;
   width: 1100px;
 }
 .table__cell{
   width: 250px;
   margin-top: 60px;
-  justify-content: space-between;
-  align-content: space-between;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-line-pack: justify;
+      align-content: space-between;
   position: relative;
   z-index: 1;
 }
@@ -217,8 +241,11 @@
 .table_theme_dark{
   width: 1100px;
   margin: 0 auto;
-  justify-content: space-between;
-  align-content: space-between;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-line-pack: justify;
+      align-content: space-between;
   position: relative;
   z-index: 1;
 }
@@ -241,12 +268,17 @@
 .footer{
   background-color: #1F1F1F;
   min-height: 350px;
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   padding: 60px 0 40px;
 }
 .footer__columns {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: space-between;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   width: 90%;
   margin: auto;
 }
@@ -255,7 +287,8 @@
   min-height: 252px;
 }
 .footer__columns_content_copyright{
-  flex-basis: 711px;
+  -ms-flex-preferred-size: 711px;
+      flex-basis: 711px;
   position: relative;
 }
 .logo_place_footer{
