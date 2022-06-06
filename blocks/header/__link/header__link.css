@@ -1,10 +1,13 @@
-.header__link,
-.header__link a {
+.header__link {
   margin: 0;
   color: #2f80ed;
   text-decoration: none;
+  font-weight: normal;
+  opacity: 1;
+  transition: 0.3s;
 }
+
 .header__link:hover {
-  opacity: 0.1;
-  transition: 0.2s linear;
+  opacity: 0.5;
+  color: #2f80ed;
 }

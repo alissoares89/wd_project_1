@@ -1,9 +1,6 @@
-.resources__logo img {
-  width: 270px;
+.resources__logo {
+  width: 100%;
   height: 38px;
-}
-
-.resources__logo a:hover {
-  opacity: 0.1;
-  transition: 0.2s linear;
+  background-size: contain;
+  list-style: none;
 }
