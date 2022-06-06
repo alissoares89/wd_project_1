@@ -1,5 +1,5 @@
 # PROJETO 2 - Aprendendo a Aprender
-
+![img](images/logo_place_header.png)
 ## Practicum - Yandex
 
 ### 1. Sobre o projeto:
@@ -12,9 +12,9 @@ Esse projeto é complementar ao Web Project 1, com objetivo de aprofundar mais t
 
 ### 2. Orientação:
 
-O projeto foi desenvolvido com base nas especificações contidas em *Web_2_sprint_brief_project_ptbr*
+O projeto foi desenvolvido com base nas especificações contidas em *Web_2_sprint_brief_project_ptbr*[markdown link](Web_2_sprint_brief_project_ptbr.pdf)
 
-Devendo também atender os requisitos do Checklist *web_2_sprint_Projeto_2._checklist_ptbr*
+Devendo também atender os requisitos do Checklist *web_2_sprint_Projeto_2._checklist_ptbr* [markdown link](web_2_sprint_Projeto_2._checklist_ptbr.pdf)
 
 Para elaboração do projeto foi utilizado as seguintes tecnologias:
 
