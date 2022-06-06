@@ -1,5 +1,6 @@
 # PROJETO 1 - Aprendendo a Aprender - PARTE I
 
+![img](images/logo_place_header.png)
 ## Practicum - Yandex
 
 ### 1. Sobre o projeto:
