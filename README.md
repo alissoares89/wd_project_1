@@ -12,9 +12,9 @@ Esse projeto é complementar ao Web Project 1, com objetivo de aprofundar mais t
 
 ### 2. Orientação:
 
-O projeto foi desenvolvido com base nas especificações contidas em *Web_2_sprint_brief_project_ptbr*[markdown link](Web_2_sprint_brief_project_ptbr.pdf)
+O projeto foi desenvolvido com base nas especificações contidas em *Web_2_sprint_brief_project_ptbr*[Brief Project](Web_2_sprint_brief_project_ptbr.pdf)
 
-Devendo também atender os requisitos do Checklist *web_2_sprint_Projeto_2._checklist_ptbr* [markdown link](web_2_sprint_Projeto_2._checklist_ptbr.pdf)
+Devendo também atender os requisitos do Checklist *web_2_sprint_Projeto_2._checklist_ptbr* [Checklist](web_2_sprint_Projeto_2._checklist_ptbr.pdf)
 
 Para elaboração do projeto foi utilizado as seguintes tecnologias:
 
